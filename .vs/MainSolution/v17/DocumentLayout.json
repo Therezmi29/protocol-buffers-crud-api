@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F25553-6A43-4865-81E0-3828F8D7B461}|Infrastructure\\Infrastructure.csproj|c:\\users\\therezmi\\desktop\\c# projects\\up comming projects\\mainsolution\\infrastructure\\context\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F25553-6A43-4865-81E0-3828F8D7B461}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9318E4-CE8D-4579-990D-361196AE2200}|Domain\\Domain.csproj|c:\\users\\therezmi\\desktop\\c# projects\\up comming projects\\mainsolution\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9318E4-CE8D-4579-990D-361196AE2200}|Domain\\Domain.csproj|solutionrelative:domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|c:\\users\\therezmi\\desktop\\c# projects\\up comming projects\\mainsolution\\application\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|solutionrelative:application\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|c:\\users\\therezmi\\desktop\\c# projects\\up comming projects\\mainsolution\\application\\ioc\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|solutionrelative:application\\ioc\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|c:\\users\\therezmi\\desktop\\c# projects\\up comming projects\\mainsolution\\application\\ioc\\repository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|solutionrelative:application\\ioc\\repository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|c:\\users\\therezmi\\desktop\\c# projects\\up comming projects\\mainsolution\\application\\configuration\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC60B63-3238-42B6-80FE-8A4A79B1838E}|Application\\Application.csproj|solutionrelative:application\\configuration\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Infrastructure\\Context\\MainContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\MainContext.cs",
+              "ToolTip": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Infrastructure\\Context\\MainContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\MainContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:32:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Domain\\Model\\User.cs",
+              "RelativeToolTip": "Domain\\Model\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:32:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "Application\\Models\\PaginatedList.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:32:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\IOC\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\IOC\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\IOC\\Service\\UserService.cs",
+              "RelativeToolTip": "Application\\IOC\\Service\\UserService.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAmwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:32:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\IOC\\Repository\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\IOC\\Repository\\IUserService.cs",
+              "ToolTip": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\IOC\\Repository\\IUserService.cs",
+              "RelativeToolTip": "Application\\IOC\\Repository\\IUserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:32:06.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiContainer.cs",
+              "DocumentMoniker": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\Configuration\\DiContainer.cs",
+              "RelativeDocumentMoniker": "Application\\Configuration\\DiContainer.cs",
+              "ToolTip": "C:\\Users\\therezmi\\Desktop\\C# projects\\Up Comming Projects\\MainSolution\\Application\\Configuration\\DiContainer.cs",
+              "RelativeToolTip": "Application\\Configuration\\DiContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:31:59.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

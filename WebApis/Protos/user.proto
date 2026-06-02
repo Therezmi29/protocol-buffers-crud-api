@@ -1,0 +1,61 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "WebApis.Protos";
+
+package user;
+
+service UserService {
+  rpc GetAll (GetAllUsersRequest) returns (GetAllUsersResponse);
+  rpc GetById (GetUserByIdRequest) returns (UserResponse);
+  rpc Create (CreateUserRequest) returns (UserResponse);
+  rpc Update (UpdateUserRequest) returns (UserResponse);
+  rpc Delete (DeleteUserRequest) returns (DeleteUserResponse);
+}
+
+message GetAllUsersRequest {}
+
+message GetAllUsersResponse {
+  repeated UserMessage users = 1;
+}
+
+message GetUserByIdRequest {
+  int32 id = 1;
+}
+
+message CreateUserRequest {
+  string first_name = 1;
+  string last_name = 2;
+  string national_code = 3;
+  string birth_date = 4;
+}
+
+message UpdateUserRequest {
+  int32 id = 1;
+  string first_name = 2;
+  string last_name = 3;
+  string national_code = 4;
+  string birth_date = 5;
+}
+
+message DeleteUserRequest {
+  int32 id = 1;
+}
+
+message UserMessage {
+  int32 id = 1;
+  string first_name = 2;
+  string last_name = 3;
+  string national_code = 4;
+  string birth_date = 5;
+}
+
+message UserResponse {
+  bool success = 1;
+  string error_message = 2;
+  UserMessage user = 3;
+}
+
+message DeleteUserResponse {
+  bool success = 1;
+  string error_message = 2;
+}
